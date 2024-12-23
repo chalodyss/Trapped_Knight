@@ -9,7 +9,7 @@ Ce programme permet d'illustrer visuellement le problème du cavalier piégé au
 ## Usage
 
 <pre>
-python trapped_knight.py 100 1 1
+python trapped_knight.py [DIMENSION] [ORIGIN] [DELAY]
 </pre>
 
 ## Auteur
